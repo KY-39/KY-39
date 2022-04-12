@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KY-39 (Vladimir Kuznetsov), I'm From Russia/Krasnodar.
 - 👀 I’m interested in math, philosophy and their application in real life.
-- 🌱 I’m currently learning NeuralNetworks.
+- 🌱 I’m currently practice 'real world tasks'.
 - 💞️ I’m looking for a company that is interested in a motivated person with a huge potential.
 - 📫 How to reach me: e-mail: naturalistjunior@gmail.com, telegram: https://t.me/KY_39I
 
